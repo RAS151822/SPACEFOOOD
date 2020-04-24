@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{84733EA5-19C2-4DBC-A6FA-89BBD0878368}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PracticaBurguerLaura</RootNamespace>
+    <AssemblyName>PracticaBurguerLaura</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ButtonRas">
+      <HintPath>..\..\ButtonRas\ButtonRas\bin\Debug\ButtonRas.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alhambra.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Alhambra.Designer.cs">
+      <DependentUpon>Alhambra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Amstel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amstel.Designer.cs">
+      <DependentUpon>Amstel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArrozConLeche.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArrozConLeche.Designer.cs">
+      <DependentUpon>ArrozConLeche.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BEBIDAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BEBIDAS.Designer.cs">
+      <DependentUpon>BEBIDAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bezoya.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Bezoya.Designer.cs">
+      <DependentUpon>Bezoya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeboxCamposVacios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeboxCamposVacios.Designer.cs">
+      <DependentUpon>MensajeboxCamposVacios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCarrito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuCarrito.Designer.cs">
+      <DependentUpon>MenuCarrito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CircularButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CocaColas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CocaColas.Designer.cs">
+      <DependentUpon>CocaColas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CocaColaZero.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CocaColaZero.Designer.cs">
+      <DependentUpon>CocaColaZero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColaLight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ColaLight.Designer.cs">
+      <DependentUpon>ColaLight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FantaLimon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FantaLimon.Designer.cs">
+      <DependentUpon>FantaLimon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FantaNaranja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FantaNaranja.Designer.cs">
+      <DependentUpon>FantaNaranja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MensajeboxPedidoRealizado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeboxPedidoRealizado.Designer.cs">
+      <DependentUpon>MensajeboxPedidoRealizado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedido.cs" />
+    <Compile Include="FormHotDog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHotDog.Designer.cs">
+      <DependentUpon>FormHotDog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormKofte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormKofte.Designer.cs">
+      <DependentUpon>FormKofte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManti.Designer.cs">
+      <DependentUpon>FormManti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPizza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPizza.Designer.cs">
+      <DependentUpon>FormPizza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormShushi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShushi.Designer.cs">
+      <DependentUpon>FormShushi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTallarines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTallarines.Designer.cs">
+      <DependentUpon>FormTallarines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lanjaron.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Lanjaron.Designer.cs">
+      <DependentUpon>Lanjaron.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAmericano.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAmericano.Designer.cs">
+      <DependentUpon>MenuAmericano.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAsia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAsia.Designer.cs">
+      <DependentUpon>MenuAsia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuInicio.Designer.cs">
+      <DependentUpon>MenuInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuComida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuComida.Designer.cs">
+      <DependentUpon>MenuComida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRellenos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRellenos.Designer.cs">
+      <DependentUpon>FormRellenos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuMediterraneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuMediterraneo.Designer.cs">
+      <DependentUpon>MenuMediterraneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormOllica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormOllica.Designer.cs">
+      <DependentUpon>FormOllica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuTurkia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuTurkia.Designer.cs">
+      <DependentUpon>MenuTurkia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreAMericano1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreAMericano1.Designer.cs">
+      <DependentUpon>PostreAMericano1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreAMericano2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreAMericano2.Designer.cs">
+      <DependentUpon>PostreAMericano2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreASIA1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreASIA1.Designer.cs">
+      <DependentUpon>PostreASIA1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreAsia2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreAsia2.Designer.cs">
+      <DependentUpon>PostreAsia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreMEDITERRANEO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreMEDITERRANEO.Designer.cs">
+      <DependentUpon>PostreMEDITERRANEO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Postres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Postres.Designer.cs">
+      <DependentUpon>Postres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreTurco1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreTurco1.Designer.cs">
+      <DependentUpon>PostreTurco1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PostreTurco2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PostreTurco2.Designer.cs">
+      <DependentUpon>PostreTurco2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tropical.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tropical.Designer.cs">
+      <DependentUpon>Tropical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Turia.Designer.cs">
+      <DependentUpon>Turia.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Alhambra.resx">
+      <DependentUpon>Alhambra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Amstel.resx">
+      <DependentUpon>Amstel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ArrozConLeche.resx">
+      <DependentUpon>ArrozConLeche.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BEBIDAS.resx">
+      <DependentUpon>BEBIDAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bezoya.resx">
+      <DependentUpon>Bezoya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeboxCamposVacios.resx">
+      <DependentUpon>MensajeboxCamposVacios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuCarrito.resx">
+      <DependentUpon>MenuCarrito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CocaColas.resx">
+      <DependentUpon>CocaColas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CocaColaZero.resx">
+      <DependentUpon>CocaColaZero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ColaLight.resx">
+      <DependentUpon>ColaLight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FantaLimon.resx">
+      <DependentUpon>FantaLimon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FantaNaranja.resx">
+      <DependentUpon>FantaNaranja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuInicio.resx">
+      <DependentUpon>MenuInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuComida.resx">
+      <DependentUpon>MenuComida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHotDog.resx">
+      <DependentUpon>FormHotDog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKofte.resx">
+      <DependentUpon>FormKofte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManti.resx">
+      <DependentUpon>FormManti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPizza.resx">
+      <DependentUpon>FormPizza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRellenos.resx">
+      <DependentUpon>FormRellenos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShushi.resx">
+      <DependentUpon>FormShushi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTallarines.resx">
+      <DependentUpon>FormTallarines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lanjaron.resx">
+      <DependentUpon>Lanjaron.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAmericano.resx">
+      <DependentUpon>MenuAmericano.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAsia.resx">
+      <DependentUpon>MenuAsia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuMediterraneo.resx">
+      <DependentUpon>MenuMediterraneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormOllica.resx">
+      <DependentUpon>FormOllica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuTurkia.resx">
+      <DependentUpon>MenuTurkia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeboxPedidoRealizado.resx">
+      <DependentUpon>MensajeboxPedidoRealizado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreAMericano1.resx">
+      <DependentUpon>PostreAMericano1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreAMericano2.resx">
+      <DependentUpon>PostreAMericano2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreASIA1.resx">
+      <DependentUpon>PostreASIA1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreAsia2.resx">
+      <DependentUpon>PostreAsia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreMEDITERRANEO.resx">
+      <DependentUpon>PostreMEDITERRANEO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Postres.resx">
+      <DependentUpon>Postres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreTurco1.resx">
+      <DependentUpon>PostreTurco1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PostreTurco2.resx">
+      <DependentUpon>PostreTurco2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tropical.resx">
+      <DependentUpon>Tropical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turia.resx">
+      <DependentUpon>Turia.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogospaceFOOD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondoPanelForms1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logopequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titulo food.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Titulo foodpequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MEDITERRANEO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MEDITERRANEO1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASIA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TURKIA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TURKIA1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\astronauta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\olleta.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rellenos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArrozTresdelicias.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tallarines.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUSHI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menemen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kofte.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mantı.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mantı1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kofte1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mantı2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mas%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hamburguesa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pizza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perrito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Derecha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\izquierda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\izquierdanueva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocacolanueva.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocacolalight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantaNaranja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocacolanueva1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cocacolalight1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantaLiMON.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantaNaranja1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantaNaranjanueva.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantaLiMON1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fantaLiMONnueva.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lanjaron.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lanjaron.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agua1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tropical.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alhambra.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amstel-botella.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cervezaTuria.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BrazoDeGitano.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arroz-con-leche.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Khanom-Thungtag.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Patbingsu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delicias-turcas.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mochi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PostreAmericano2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PostreAmericano1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paYnow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DELETE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comprarNEW.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
