@@ -1,0 +1,242 @@
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe.config
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\bin\Debug\ButtonRas.dll
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\bin\Debug\ButtonRas.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.BEBIDAS.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormHotDog.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormKofte.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormManti.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormPizza.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormRellenos.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormShushi.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormTallarines.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAmericano.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAsia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuMediterraneo.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormOllica.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuTurkia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Properties.Resources.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CopyComplete
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColaZero.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe.config
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.dll
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.BEBIDAS.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColaZero.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormHotDog.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormKofte.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormManti.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormPizza.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormRellenos.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormShushi.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormTallarines.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAmericano.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAsia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuMediterraneo.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormOllica.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuTurkia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Properties.Resources.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CopyComplete
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ColaLight.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaLimon.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaNaranja.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe.config
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.dll
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.BEBIDAS.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColaZero.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ColaLight.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaLimon.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaNaranja.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormHotDog.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormKofte.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormManti.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormPizza.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormRellenos.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormShushi.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormTallarines.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAmericano.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAsia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuMediterraneo.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormOllica.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuTurkia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Properties.Resources.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CopyComplete
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Lanjaron.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Bezoya.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe.config
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.dll
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Alhambra.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Amstel.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.BEBIDAS.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Bezoya.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColaZero.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ColaLight.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaLimon.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaNaranja.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Form2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormHotDog.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormKofte.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormManti.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormPizza.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormRellenos.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormShushi.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormTallarines.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Lanjaron.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAmericano.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAsia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuMediterraneo.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormOllica.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuTurkia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Properties.Resources.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Tropical.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Turia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CopyComplete
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ArrozConLeche.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAMericano1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAMericano2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreASIA1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAsia2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreMEDITERRANEO.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Postres.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreTurco1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreTurco2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Carrito.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Alhambra.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Amstel.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ArrozConLeche.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.BEBIDAS.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Bezoya.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColaZero.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ColaLight.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaLimon.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaNaranja.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormHotDog.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormKofte.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormManti.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormPizza.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormRellenos.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormShushi.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormTallarines.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Lanjaron.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAmericano.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAsia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuMediterraneo.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormOllica.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuTurkia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAMericano1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAMericano2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreASIA1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAsia2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreMEDITERRANEO.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Postres.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreTurco1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreTurco2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Properties.Resources.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Tropical.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Turia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe.config
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.dll
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CopyComplete
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuComida.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuInicio.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuCarrito.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe.config
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.dll
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\bin\Debug\ButtonRas.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Alhambra.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Amstel.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Bezoya.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuCarrito.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.CocaColaZero.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.ColaLight.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaLimon.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FantaNaranja.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuInicio.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuComida.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormHotDog.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormKofte.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormManti.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormPizza.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormRellenos.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormShushi.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormTallarines.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Lanjaron.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAmericano.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuAsia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuMediterraneo.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.FormOllica.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuTurkia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MessajeboxPedidoRealizado.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAMericano1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAMericano2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreASIA1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreAsia2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreMEDITERRANEO.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Postres.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreTurco1.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreTurco2.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Properties.Resources.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Tropical.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Turia.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csproj.CopyComplete
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.exe
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.pdb
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.Error_Empty_Fields.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.PostreArrozConLeche.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuBebidas.resources
+C:\Users\Ras\source\repos\PracticaBurguerLaura - copia - copia - copia - copia - copia - copia\PracticaBurguerLaura\obj\Debug\PracticaBurguerLaura.MenuOrders.resources
